@@ -1,4 +1,4 @@
-# MP_SEM_6
+
 # Project Title: - Autonomous Agricultural Monitoring System
 
 HARDIK AGARWAL- 20BCS6260
